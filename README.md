@@ -1,5 +1,3 @@
-# Welcome
-
 I used to be a developer. I still do some programming for personal purposes.
 
 * I have written several utilities for myself and deemed some of them good enough to publish online:
