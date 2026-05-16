@@ -6,7 +6,7 @@ I used to be a developer. I still do some programming for personal purposes.
 
 I have written several utilities for myself and have deemed some of them good enough to publish online.
 
-* A DjVu to PDF convertor called [`dpsprep`](https://github.com/kcroker/dpsprep) (not initially my own, but I am the sole maintainer after my rewrite).
+* A DjVu to PDF converter called [`dpsprep`](https://github.com/kcroker/dpsprep) (not initially my own, but I am the sole maintainer after my rewrite).
 * My take at extended file attribute called [`viat`](https://github.com/v--/viat) (**vi**rtual **at**tributes).
 * My own `dmenu` twist called [`searchtool-gtk`](https://github.com/v--/searchtool-gtk).
 * A TeX-to-unicode input method helper called [`unicodeit-gtk`](https://github.com/v--/unicodeit-gtk).
@@ -18,9 +18,9 @@ I have written several utilities for myself and have deemed some of them good en
 I have published some notes related to mathematics.
 
 * My personal [`notebook`](https://github.com/v--/notebook) contains mostly math and algorithmic code, but also has some tools for working with LaTeX and BibLaTeX. At some point big text documents start requiring customized tools.
-* Some folks from Bulgaria find my state examination notes repo [`se2018`](https://github.com/v--/se2018) useful.
+* Some folks from Bulgaria find my state examination note repo [`se2018`](https://github.com/v--/se2018) useful.
 
-## Demo
+## Demos
 
 I have also published a few repositories for demonstrational purposes.
 
