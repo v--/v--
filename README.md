@@ -2,9 +2,6 @@
 
 I used to be a developer. I still do some programming for personal purposes.
 
-> [!NOTE]
-> The repositories not listed below are either one-off forks, university course exercises or hackathon projects.
-
 ## Utilities
 
 I have written several utilities for myself and have deemed some of them good enough to publish online.
