@@ -6,7 +6,7 @@ I used to be a developer. I still do some programming for personal purposes.
   * My own `dmenu` twist called [`searchtool-gtk`](https://github.com/v--/searchtool-gtk).
   * A TeX-to-unicode input method helper called [`unicodeit-gtk`](https://github.com/v--/unicodeit-gtk).
   * An older X11 focus toggling tool called [`wintoggle`](https://github.com/v--/wintoggle).
-  * An older library called [`subscribed`](https://github.com/v--/subscribed) that I developed for my neuronsim simulation (see below). Ironically, I rewrote both since their inception in 2015 and now they are independent.
+  * An older library called [`subscribed`](https://github.com/v--/subscribed) that I developed for my `neuronsim` simulation (see below). Ironically, I rewrote both since their inception in 2015 and now they are independent.
 
 * I have published some notes related to mathematics:
   * My personal [`notebook`](https://github.com/v--/notebook) contains mostly math and algorithmic code, but also has some tools for working with LaTeX and BibLaTeX. At some point big text documents start requiring customized tools.
