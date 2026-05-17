@@ -26,7 +26,7 @@ I have also published a few repositories for demonstrative purposes:
 
 * For my [website](https://ivasilev.net) ([repository](https://github.com/v--/website)), I have implemented some things like observables, reactive rendering, type-based schemas, abstract rich text, translation, etc. It was a useful learning experience and I believe the code is concise enough to be useful as a reference.
 * I have shared some Jupyter notebooks in a repository called [`244`](https://github.com/v--/244) (the name is a UNIX permission pun).
-* After digitizing several books, I have developed my own process, which is described in the [`digitization-demo`](https://github.com/v--/digitization-demo) repository.
+* After digitizing several books, my process evolved into what I describe in the [`digitization-demo`](https://github.com/v--/digitization-demo) repository.
 * For a university course on mathematical modeling, I have created an unpretentious simulation for neural impulses called [`neuronsim`](https://github.com/v--/neuronsim).
 
 ## The peculiar case of my username
@@ -40,4 +40,4 @@ I don't care enough to change it, however I will describe how my username mostly
 Thus, `v--.github.io/<project-name>` is technically invalid. Nevertheless, for some older (pre-2016) repositories, GitHub allows me to use Pages - see <https://v--.github.io/subscribed/>. The same possibly holds for the [GitHub container registry](https://ghcr.io) (although I have no intention to try).
 
 > [!NOTE]
-> I do not feel offended about my inability to use GitHub Pages for documentation because [Read the Docs](https://readthedocs.com) provides some niceties like multiple documentation versions out-of-the-box.
+> GitHub Pages is undoubtedly useful for project documentation, but even in my limited experience, it requires a lot more manual setup compared to, say, [Read the Docs](https://readthedocs.com), which even provides some niceties like multiple documentation versions out-of-the-box.
