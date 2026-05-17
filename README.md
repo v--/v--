@@ -18,15 +18,15 @@ I have written several utilities for myself and have deemed some of them good en
 I have published some notes related to mathematics:
 
 * My personal [`notebook`](https://github.com/v--/notebook) contains mostly math and algorithmic code, but also has some tools for working with LaTeX and BibLaTeX. At some point big text documents start requiring customized tools.
-* Some folks from Bulgaria find my state examination note repo [`se2018`](https://github.com/v--/se2018) useful.
+* Some folks from Bulgaria find my state examination note repository [`se2018`](https://github.com/v--/se2018) useful.
 
 ## Demos
 
 I have also published a few repositories for demonstrative purposes:
 
-* For my [website](https://ivasilev.net) ([repo](https://github.com/v--/website)), I have implemented some things like observables, reactive rendering, type-based schemas, abstract rich text, translation, etc. It was a useful learning experience and I believe the code is concise enough to be useful as a reference.
-* I have shared some Jupyter notebooks in a repo called [`244`](https://github.com/v--/244) (the name is a UNIX permission pun).
-* After digitizing several books, I have developed my own process, which is described in the [`digitization-demo`](https://github.com/v--/digitization-demo) repo.
+* For my [website](https://ivasilev.net) ([repository](https://github.com/v--/website)), I have implemented some things like observables, reactive rendering, type-based schemas, abstract rich text, translation, etc. It was a useful learning experience and I believe the code is concise enough to be useful as a reference.
+* I have shared some Jupyter notebooks in a repository called [`244`](https://github.com/v--/244) (the name is a UNIX permission pun).
+* After digitizing several books, I have developed my own process, which is described in the [`digitization-demo`](https://github.com/v--/digitization-demo) repository.
 * For a university course on mathematical modeling, I have created an unpretentious simulation for neural impulses called [`neuronsim`](https://github.com/v--/neuronsim).
 
 ## The peculiar case of my username
