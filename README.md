@@ -10,8 +10,6 @@ I have written several utilities for myself and have deemed some of them good en
 * My take at extended file attributes called [`viat`](https://github.com/v--/viat) (**vi**rtual **at**tributes).
 * My `dmenu` twist called [`searchtool-gtk`](https://github.com/v--/searchtool-gtk).
 * A TeX-to-unicode input method helper called [`unicodeit-gtk`](https://github.com/v--/unicodeit-gtk).
-* An older X11 focus toggling tool called [`wintoggle`](https://github.com/v--/wintoggle).
-* An older library called [`subscribed`](https://github.com/v--/subscribed) that I developed for my `neuronsim` simulation (see below). Ironically, I rewrote both since their inception in 2015 and now they are independent.
 
 ## Notes
 
@@ -28,6 +26,16 @@ I have also published a few repositories for demonstrative purposes:
 * I have shared some Jupyter notebooks in a repository called [`244`](https://github.com/v--/244) (the name is a UNIX permission pun).
 * After digitizing several books, my process evolved into what I describe in the [`digitization-demo`](https://github.com/v--/digitization-demo) repository.
 * For a university course on mathematical modeling, I have created an unpretentious simulation for neural impulses called [`neuronsim`](https://github.com/v--/neuronsim).
+
+## Unmaintained
+
+Finally, the following are obsolete (for me) and thus unmaintained:
+
+> [!NOTE]
+> I will accept pull requests and may even do a small patch if necessary.
+
+* A X11 focus toggling tool called [`wintoggle`](https://github.com/v--/wintoggle).
+* A library called [`subscribed`](https://github.com/v--/subscribed) that I developed for my `neuronsim` simulation. Ironically, I rewrote both since their inception in 2015 and now they are independent.
 
 ## The peculiar case of my username
 
