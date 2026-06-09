@@ -26,6 +26,7 @@ I have also published a few repositories for demonstrative purposes:
 * I have shared some Jupyter notebooks in a repository called [`244`](https://github.com/v--/244) (the name is a UNIX permission pun).
 * After digitizing several books, my process evolved into what I describe in the [`digitization-demo`](https://github.com/v--/digitization-demo) repository.
 * In a university course on mathematical modeling, I created a simulation for neural impulses called [`neuronsim`](https://github.com/v--/neuronsim).
+* I outline my dotfile management and my bibliography management scripts in my [Viat usage examples](https://github.com/v--/viat/blob/master/examples).
 
 ## Unmaintained
 
