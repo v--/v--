@@ -10,6 +10,7 @@ I have written several utilities for myself and have deemed some of them good en
 * My take at extended file attributes called [`viat`](https://github.com/v--/viat) (**vi**rtual **at**tributes).
 * My `dmenu` twist called [`searchtool-gtk`](https://github.com/v--/searchtool-gtk).
 * A TeX-to-unicode input method helper called [`unicodeit-gtk`](https://github.com/v--/unicodeit-gtk).
+* A management tool for [pacman repositories](https://pacman.archlinux.page/) called [`alrin`](https://github.com/v--/alrin) (**A**rch **L**inux **r**epository for [**i**vasilev.**n**et](https://ivasilev.net)).
 
 ## Notes
 
