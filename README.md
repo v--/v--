@@ -23,7 +23,7 @@ I have published some notes related to mathematics:
 
 I have also published a few repositories for demonstrative purposes:
 
-* For my [website](https://ivasilev.net) ([repository](https://github.com/v--/website)), I have implemented some things that are usually handled by libraries - observables, reactive rendering, type-based schemas, abstract rich text, etc. It was a useful learning experience and I believe the code is concise enough to be useful as a reference.
+* For my [website](https://ivasilev.net) ([repository](https://github.com/v--/website)), I have implemented some things that are usually handled by libraries - observables, reactive rendering, abstract rich text, type construction from schemas, etc. It was a worthwhile learning experience and I believe the code is concise enough to be useful as a reference.
 * I have shared some Jupyter notebooks in a repository called [`244`](https://github.com/v--/244) (the name is a UNIX permission pun).
 * After digitizing several books, my process evolved into what I describe in the [`digitization-demo`](https://github.com/v--/digitization-demo) repository.
 * In a university course on mathematical modeling, I created a simulation for neural impulses called [`neuronsim`](https://github.com/v--/neuronsim).
