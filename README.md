@@ -4,7 +4,7 @@ I used to be a developer. I still do some programming for personal purposes.
 
 ## Utilities
 
-I have written several utilities for myself and have deemed some of them good enough to publish online:
+I have written several utilities for myself. Some of them seemed good enough to publish online:
 
 * A DjVu to PDF converter called [`dpsprep`](https://github.com/kcroker/dpsprep) (not initially my own, but I am the sole maintainer after my rewrite).
 * My take at extended file attributes called [`viat`](https://github.com/v--/viat) (**vi**rtual **at**tributes).
