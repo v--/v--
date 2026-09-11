@@ -7,8 +7,9 @@ I used to be a developer. I still do some programming for personal purposes.
 I have written several utilities for myself. Some of them seemed good enough to publish online:
 
 * A DjVu to PDF converter called [`dpsprep`](https://github.com/kcroker/dpsprep) (not initially my own, but I am the sole maintainer after my rewrite).
+* For the above, [`libdjvulibre`](https://djvu.sourceforge.net/) bindings called [`python-djvulibre-ng`](https://github.com/v--/python-djvulibre-ng).
 * My take at extended file attributes called [`viat`](https://github.com/v--/viat) (**vi**rtual **at**tributes).
-* My `dmenu` twist called [`searchtool-gtk`](https://github.com/v--/searchtool-gtk).
+* My program/file launcher called [`searchtool-gtk`](https://github.com/v--/searchtool-gtk).
 * A TeX-to-unicode input method helper called [`unicodeit-gtk`](https://github.com/v--/unicodeit-gtk).
 * A management tool for [pacman repositories](https://pacman.archlinux.page/) called [`alrin`](https://github.com/v--/alrin) (**A**rch **L**inux **r**epository for [**i**vasilev.**n**et](https://ivasilev.net)).
 
